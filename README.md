@@ -1,16 +1,14 @@
-## Hi there 👋
+👋 Hello
 
-<!--
-**minhuster68/minhuster68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is Minh Vu Viet
+💻 I'm a Mechatronics student at ROAB Lab
+🚀 Interested in Robotics, ROS 2, Computer Vision and CAD
 
-Here are some ideas to get you started:
+- 🎓 Studied at Hanoi University of Science and Technology (HUST)
+- ✉️ You can contact me via
+    + Email address: minhvuviet20051311123456789@gmail.com
+    + Zalo number: 0328290017
+    + Facebook: https://www.facebook.com/vvminh236251
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+I enjoy building projects to improve my skills and steadily grow as an engineer.
