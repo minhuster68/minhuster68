@@ -2,7 +2,7 @@ Hello
 
 ## My name is Minh Vu Viet
  I'm a Mechatronics student at ROAB Lab
- Interested in Robotics, ROS 2, Computer Vision and CAD
+ Interested in Robotics, ROS2, Computer Vision, PCB and CAD
 
 -  Studied at Hanoi University of Science and Technology (HUST)
 -  You can contact me via
