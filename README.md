@@ -10,5 +10,4 @@ Hello
     + Zalo number: 0328290017
     + Facebook: https://www.facebook.com/vvminh236251
 
-### Skills
 I enjoy building projects to improve my skills and steadily grow as an engineer.
